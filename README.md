@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Data Mining and SQL. I am skilled with PowerBI, Tableau, Python and R.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- ⚡ Fun fact: Have a look at my projects during my past time. https://insightfulsathesh.github.io/sathesh.github.io/
+- ⚡ Fun fact: Have a look at my projects during my past time. https://insightfulsathesh.github.io/dataviz/
   
 <!---
 InsightfulSathesh/InsightfulSathesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
